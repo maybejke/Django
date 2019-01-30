@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQtNC40YLQtSDRg9GH0LXRgtC90YPRjiDQt9Cw0L/QuNGB?=
+ =?utf-8?b?0YwgbDc=?=
+From: django.geekbrains@local
+To: wwe@ew.ru
+Date: Sun, 27 Jan 2019 07:50:07 -0000
+Message-ID: <154857540784.78160.17555296024668695136@maybe>
+
+Для подтверждения Вашей учетной записи l7 на портале http://localhost:8000 перейдите по ссылке: 
+http://localhost:8000/auth/verify/wwe@ew.ru/a546c3c7d5b7671a0cc5de8b3d98862bbed8fdc4/
+-------------------------------------------------------------------------------

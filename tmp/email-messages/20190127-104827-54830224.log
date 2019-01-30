@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQtNC40YLQtSDRg9GH0LXRgtC90YPRjiDQt9Cw0L/QuNGB?=
+ =?utf-8?b?0YwgbDY=?=
+From: django.geekbrains@local
+To: user@user.com
+Date: Sun, 27 Jan 2019 07:48:27 -0000
+Message-ID: <154857530768.78160.113470947876064487@maybe>
+
+Для подтверждения Вашей учетной записи l6 на портале http://localhost:8000 перейдите по ссылке: 
+http://localhost:8000/auth/verify/user@user.com/ded4c3b3e94c1b6b08e6ec659c3a21db1cda1a01/
+-------------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQtNC40YLQtSDRg9GH0LXRgtC90YPRjiDQt9Cw0L/QuNGB?=
+ =?utf-8?b?0YwgbDg=?=
+From: django.geekbrains@local
+To: dsa@das.com
+Date: Sun, 27 Jan 2019 07:59:39 -0000
+Message-ID: <154857597905.3508.7702123957636165203@maybe>
+
+Для подтверждения Вашей учетной записи l8 на портале http://localhost:8000 перейдите по ссылке: 
+http://localhost:8000/auth/verify/dsa@das.com/80ed58d7bc40642104b3c5c6ad15d22b11901893/
+-------------------------------------------------------------------------------
